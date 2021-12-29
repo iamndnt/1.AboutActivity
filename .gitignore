@@ -1,0 +1,4 @@
+# Project exclude paths
+/.gradle/
+/omniNotes/build/
+/omniNotes/build/intermediates/javac/alphaDebug/classes/

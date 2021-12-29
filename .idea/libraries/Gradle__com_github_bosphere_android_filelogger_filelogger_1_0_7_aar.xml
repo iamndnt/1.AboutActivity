@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.bosphere.android-filelogger:filelogger:1.0.7@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ae23f02629907e7339d4f09a68822d57/jetified-filelogger-1.0.7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ae23f02629907e7339d4f09a68822d57/jetified-filelogger-1.0.7/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ae23f02629907e7339d4f09a68822d57/jetified-filelogger-1.0.7/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bosphere.android-filelogger/filelogger/1.0.7/37ba6ae814ecd468223373ce61d9011a1c53e224/filelogger-1.0.7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bosphere.android-filelogger/filelogger/1.0.7/5baaee8e24ed32e1bce1f126e5a2a15c52d8f82e/filelogger-1.0.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

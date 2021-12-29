@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.federicoiosue:simplegallery:3.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/01c4496220bfb50b87c4079e364abbac/jetified-simplegallery-3.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/01c4496220bfb50b87c4079e364abbac/jetified-simplegallery-3.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/01c4496220bfb50b87c4079e364abbac/jetified-simplegallery-3.0.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.federicoiosue/simplegallery/3.0.1/d804bc1ca232788a9c6d96f546888653ee50997e/simplegallery-3.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
